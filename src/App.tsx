@@ -1,10 +1,11 @@
 import './App.css'
 import Canvas from './components/canvas'
+import NavBar from './components/navBar'
 
 function App() {
   return (
     <div className="App">
-      <h1>Etch A Sketch</h1>
+      <NavBar />
       <Canvas />
     </div>
   )

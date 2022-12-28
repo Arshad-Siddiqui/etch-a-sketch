@@ -9,7 +9,7 @@ export default function Canvas() {
   });
 
   return (
-    <div className="canvas">
+    <div className="canvas-container">
       <p>Canvas</p>
     </div>
   )

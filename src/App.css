@@ -1,8 +1,8 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
+  background-color: #ffffff;
 }
 
 body {
@@ -17,8 +17,16 @@ body {
   margin: 0;
 }
 
-.canvas {
+.canvas-container {
   border: 1px solid #222;
   margin: 0 auto;
   display: block;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #007ACE;
+  color: #fff;
 }
