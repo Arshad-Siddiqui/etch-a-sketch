@@ -16,3 +16,9 @@ body {
   color: #222;
   margin: 0;
 }
+
+.canvas {
+  border: 1px solid #222;
+  margin: 0 auto;
+  display: block;
+}
