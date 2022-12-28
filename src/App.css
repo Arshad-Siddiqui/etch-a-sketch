@@ -30,3 +30,8 @@ nav {
   background-color: #007ACE;
   color: #fff;
 }
+
+.nav-icons-wrapper {
+  font-size: 2rem;
+  margin-left: 400px;
+}
