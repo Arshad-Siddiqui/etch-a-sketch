@@ -1,6 +1,4 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
   text-align: center;
   background-color: #ffffff;
 }
@@ -25,7 +23,7 @@ body {
 
 nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   background-color: #007ACE;
   color: #fff;
@@ -33,5 +31,8 @@ nav {
 
 .nav-icons-wrapper {
   font-size: 2rem;
-  margin-left: 400px;
+}
+
+.logo-container {
+  margin: 0 200px;
 }
