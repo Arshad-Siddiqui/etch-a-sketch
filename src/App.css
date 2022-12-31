@@ -36,3 +36,8 @@ nav {
 .logo-container {
   margin: 0 200px;
 }
+
+.nav-icons-wrapper a {
+  color: #fff;
+  text-decoration: none;
+}

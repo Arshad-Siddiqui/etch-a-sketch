@@ -10,7 +10,9 @@ export default function NavBar() {
         <h1>Etch A Sketch</h1>
       </div>
       <div className='nav-icons-wrapper'>
-        <FontAwesomeIcon icon={faSquareGithub} />
+        <a href="https://github.com/Arshad-Siddiqui/etch-a-sketch">
+          <FontAwesomeIcon icon={faSquareGithub} />
+        </a>
       </div>
     </nav>
   );
