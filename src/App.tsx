@@ -1,6 +1,6 @@
-import './App.css'
-import Canvas from './components/canvas'
-import NavBar from './components/navBar'
+import "./App.css";
+import Canvas from "./components/canvas";
+import NavBar from "./components/navbar";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <NavBar />
       <Canvas />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
